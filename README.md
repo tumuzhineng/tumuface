@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>图慕智能</title>
 </head>
 <body>
 
