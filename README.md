@@ -8,7 +8,8 @@
 
 ### 3. 权重文件链接
 
-https://pan.baidu.com/s/1fCIy_66nDwJbhSR0UQ33SQ?pwd=chn9 提取码: chn9
+链接：https://pan.baidu.com/s/1J8CU9rn9fEy1lzKNnxJXUA?pwd=298m 
+提取码：298m 
 
 将下载好的权重文件放在weights文件夹中
 
