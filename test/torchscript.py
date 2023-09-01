@@ -4,7 +4,7 @@
 import sys
 sys.path.append('.')
 import torch
-from algorithms.face_feature_extract import FaceFeatureExtractor
+from recognition.face_feature_extract import FaceFeatureExtractor
 
 if __name__ == '__main__':
 

@@ -1,7 +1,7 @@
 import sys
 sys.path.append('.')
 import torch
-from algorithms.face_detect import FaceDetector
+from detection.detect import FaceDetector
 from PIL import Image
 import numpy as np
 

@@ -3,8 +3,8 @@ sys.path.append('.')
 import torch
 import cv2
 import numpy as np
-from algorithms.face_feature_extract import FaceFeatureExtractor, pre_process
-from algorithms.face_recognize import one_to_one
+from recognition.face_feature_extract import FaceFeatureExtractor, pre_process
+from recognition.face_recognize import one_to_one
 import time
 
 

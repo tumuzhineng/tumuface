@@ -7,9 +7,9 @@ import time
 import numpy as np
 import torch
 import cv2
-from algorithms.face_feature_extract import FaceFeatureExtractor
-from algorithms.face_feature_extract import pre_process
-from algorithms.face_recognize import one_to_N, one_to_N_GPU
+from recognition.face_feature_extract import FaceFeatureExtractor
+from recognition.face_feature_extract import pre_process
+from recognition.face_recognize import one_to_N, one_to_N_GPU
 import time
 
 # 数据库函数：从数据库中读取全部 N 条人脸特征。设 N = 50 0000，数据量为 50 0000*512*4 = 10 2400 0000 Bytes = 976.56 MB
